@@ -3,8 +3,7 @@ package edu.sdsu.cs.datastructures;
 import java.util.*;
 
 /**
- * Natalia Alvarez cssc0847
- * Jennie Sprague cssc0837
+ * Natalia Alvarez
  */
 
 public class BalancedMap <K extends Comparable<K>, V> implements IMap<K,V> {
