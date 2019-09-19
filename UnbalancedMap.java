@@ -4,8 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Natalia Alvarez cssc0847
- * Jennie Sprague cssc0837
+ * Natalia Alvarez
  */
 
 public class UnbalancedMap<K extends Comparable<K>, V> implements IMap<K, V> {
